@@ -2,8 +2,7 @@
 <h3 align="center">A A passionate app developer</h3>
 <h3 align="center">I'm a 2nd year student at
      <a href="https://www.iitism.ac.in/">IIT ISM Dhanbad</a></h3>
-![gif](https://raw.githubusercontent.com/Thejas0604/Thejas0604/master/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![](https://komarev.com/ghpvc/?username=thejas0604)
+<img align="center" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
 
 - 📫 How to reach me **saranshmain17@gmail.com**
 <h3 align="left">Connect with me:</h3>
