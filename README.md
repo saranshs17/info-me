@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/saransh-shivhare-7810aa254/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saranshs17" height="30" width="40" /></a>
 <a href="https://www.instagram.com/saranshs17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saranshs17" height="30" width="40" /></a>
+</p>
      
 
 <table align="center">
