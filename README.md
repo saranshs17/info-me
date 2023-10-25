@@ -26,7 +26,14 @@
 </tr>
 </table>
 
+<h2 align="left">
+<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hourglass1.gif" height="50" width= auto>
+&nbsp;&nbsp;&nbsp;&nbsp;
+Recent Activity :                                                                         
+<br></h2>
 
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saranshs17&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saranshs17&label=Profile%20views&color=0e75b6&style=flat" alt="saranshs17" /> </p><h1 align="left"> 
   
