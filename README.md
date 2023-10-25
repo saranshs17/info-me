@@ -11,8 +11,8 @@
 <a href="https://www.instagram.com/saranshs17/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saranshs17" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saranshs17&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranshs17&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=saranshs17&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=codeSTACKr&border_radius=20"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saranshs17r&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&border_radius=20" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saranshs17&label=Profile%20views&color=0e75b6&style=flat" alt="saranshs17" /> </p><h1 align="left"> 
