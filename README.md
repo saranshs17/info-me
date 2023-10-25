@@ -12,7 +12,7 @@
 </p>
 <p align="center">
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=saranshs17&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=codeSTACKr&border_radius=20"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranshs17r&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&border_radius=20" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=saranshs17&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&border_radius=20" />
 </p>
 
 
