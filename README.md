@@ -38,3 +38,5 @@ Recent Activity :
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saranshs17&label=Profile%20views&color=0e75b6&style=flat" alt="saranshs17" /> </p><h1 align="left"> 
   
 </h1>
+
+[![An image of @saranshs17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saranshs17)](https://holopin.io/@saranshs17)
