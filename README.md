@@ -26,7 +26,7 @@
 </tr>
 </table>
 
-Recent Activity :                                                                         
+<h3 align="left">Recent Activity :</h3>                                                                         
 <br></h2>
 
 
