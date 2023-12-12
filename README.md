@@ -26,9 +26,6 @@
 </tr>
 </table>
 
-<h2 align="left">
-<img src="https://raw.githubusercontent.com/Suvraneel/Suvraneel/master/res/hourglass1.gif" height="50" width= auto>
-&nbsp;&nbsp;&nbsp;&nbsp;
 Recent Activity :                                                                         
 <br></h2>
 
