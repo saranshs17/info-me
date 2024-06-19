@@ -2,7 +2,7 @@
 <h3 align="center">A passionate app developer</h3>
 <h3 align="center">I'm a 2nd year student at
      <a href="https://www.iitism.ac.in/">IIT ISM Dhanbad</a></h3>
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif"/>
+<!-- <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif"/> -->
 
 - 📫 How to reach me **saranshmain17@gmail.com**
 <h3 align="center">Connect with me:</h3>
