@@ -10,6 +10,7 @@
 
 - **Email:** [saranshmain17@gmail.com](mailto:saranshmain17@gmail.com)
 - **LinkedIn:** [Saransh Shivhare](https://www.linkedin.com/in/saransh-shivhare-7810aa254/)
+- **Instagram:** [Saransh Shivhare](https://www.instagram.com/saranshs17/)
 
 ---
 
